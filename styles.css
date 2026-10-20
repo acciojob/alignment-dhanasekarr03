@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+
+table{
+	border:1px solid  black;
+	border-spacing:1px;
+	width:70%;
+}
+
+td{
+	border:1px solid black;
+	padding:1px;
+	height:25px;
+}
+.middle{
+	margin:30px auto;
+}
+
+.right{
+	text-align:right;
+}
+
+.green{
+	background-color:green;
+}
+.blue{
+	background-color:blue;
+}
+#t-image{
+	text-align:center;
+}
